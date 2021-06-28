@@ -1,0 +1,32 @@
+Variables: al crear una variable podemos imaginar como que 
+estamos agarrando una caja y le estamos poniendo un nombre. 
+Dentro de esa caja podremos guardar distintas cosas o datos 
+mejor dicho (palabras, números, entre otros.). 
+
+Strings: dentro de las variables (cajitas con nombre) dijimos 
+que podíamos guardar distintos datos. Uno de los tipos de datos 
+que podemos guardar por ejemplo son los strings, estos tipos de 
+datos contienen caracteres (letras, números, espacios, 
+entre otros caracteres). 
+
+Funciones: si las variables las podíamos imaginar cómo cajas, 
+las funciones podríamos imaginarlas como contenedores en donde 
+podemos poner varias operaciones y variables.  Muchas veces hay 
+operaciones o variables que se vuelven a reutilizar en varias 
+oportunidades. Para ello es que creamos una función y al hacerlo 
+le asignamos un nombre. Esto nos permite “llamarlas por su nombre” 
+es decir utilizarlas tantas veces como nos sea necesario sin tener 
+que volver a reescribir todo su contenido.
+
+Declaraciones (if): las declaraciones if son conocidas como condicionales. 
+Esto nos permite decirle al programa que si se da una determinada condición 
+haga una cosa y si no que haga otra o bien que no haga nada. Incluso podemos 
+anidar estas declaraciones, es decir poner un if adentro de otro if. Siempre 
+que utilicemos if debemos pensar en la siguiente oración: “Si se da ésta 
+condición, hace esto. Si no, hace esto otro.”
+
+Valores booleanos: los valores booleanos son también tipos de datos. Estos 
+tipos de datos solo van a contener dos valores. True (verdadero) o False (Falso). 
+Estos valores también los utilizamos por ejemplo al momento de declarar un if. 
+Si se da tal condición (o sea que devuelve true) hace tal cosa. Si no se da 
+(devuelve false) hace otra. 
