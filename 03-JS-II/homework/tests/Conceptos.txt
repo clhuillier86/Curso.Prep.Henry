@@ -1,0 +1,14 @@
+for = es un bucle que ejecuta el código contenido
+dentro del mismo desde un valor inicial hasta que
+un valor final. Estos valores, tanto el inicial, 
+como el final se definen dentro de los parametros
+del bucle.
+
+Los operadores lógicos sirvan para poner mas de 
+una condicion. && es para que se de una condición
+y otra (Se tienen que cumplir ambas condiciones
+para que devuelva true).
+|| es para que se de una condición u otra (si se
+cumple una sola condición devuelve true).
+! es para negar una condición. Es decir, !true
+devolvería false y !false devolveria true.
